@@ -65,6 +65,7 @@ public class genero {
         this.festival = festival;
     }
     public void imprimirDatos(){
+        // hola a todos
         System.out.println("IMPRIMIR DATOS ");
         System.out.println(this.tipo);
         System.out.println(this.ritmo);
